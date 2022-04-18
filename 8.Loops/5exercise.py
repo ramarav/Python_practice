@@ -16,7 +16,7 @@ for x in numbers:
     if x == 237:
         break
 
-    if xr % 2 == 1:
+    if x % 2 == 1:
         continue
 
     print(x)
