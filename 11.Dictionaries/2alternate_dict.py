@@ -4,3 +4,5 @@ phonebook = {
     "Mekala" : 9949
 }
 print(phonebook)
+print(phonebook.items())
+print(phonebook.values())
